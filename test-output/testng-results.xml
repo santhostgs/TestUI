@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40151" started-at="2019-11-22T14:51:09Z" finished-at="2019-11-22T14:51:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40151" started-at="2019-11-22T14:51:09Z" finished-at="2019-11-22T14:51:49Z">
+      <class name="hotwire.tests.BookingFlightTests">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:hotwire.tests.BookingFlightTests@53b32d7]" name="Setup" is-config="true" duration-ms="5570" started-at="2019-11-22T14:51:09Z" finished-at="2019-11-22T14:51:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:hotwire.tests.BookingFlightTests@53b32d7]" name="beforeMethod" is-config="true" duration-ms="14265" started-at="2019-11-22T14:51:14Z" finished-at="2019-11-22T14:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testPackageBooking()[pri:1, instance:hotwire.tests.BookingFlightTests@53b32d7]" name="testPackageBooking" duration-ms="19149" started-at="2019-11-22T14:51:29Z" description="validate package booking results" finished-at="2019-11-22T14:51:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPackageBooking -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:hotwire.tests.BookingFlightTests@53b32d7]" name="afterMethod" is-config="true" duration-ms="1143" started-at="2019-11-22T14:51:48Z" finished-at="2019-11-22T14:51:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- hotwire.tests.BookingFlightTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

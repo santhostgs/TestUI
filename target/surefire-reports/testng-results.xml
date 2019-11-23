@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Hotwire Suite" duration-ms="43441" started-at="2019-11-23T06:00:16Z" finished-at="2019-11-23T06:00:59Z">
+    <groups>
+    </groups>
+    <test name="Hotwire UI Tests" duration-ms="43441" started-at="2019-11-23T06:00:16Z" finished-at="2019-11-23T06:00:59Z">
+      <class name="hotwire.tests.BookingFlightTests">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:hotwire.tests.BookingFlightTests@337d0578]" name="Setup" is-config="true" duration-ms="8258" started-at="2019-11-23T06:00:16Z" finished-at="2019-11-23T06:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:hotwire.tests.BookingFlightTests@337d0578]" name="beforeMethod" is-config="true" duration-ms="7660" started-at="2019-11-23T06:00:24Z" finished-at="2019-11-23T06:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testPackageBooking()[pri:1, instance:hotwire.tests.BookingFlightTests@337d0578]" name="testPackageBooking" duration-ms="19566" started-at="2019-11-23T06:00:32Z" description="validate package booking results" finished-at="2019-11-23T06:00:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPackageBooking -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:hotwire.tests.BookingFlightTests@337d0578]" name="afterMethod" is-config="true" duration-ms="7939" started-at="2019-11-23T06:00:51Z" finished-at="2019-11-23T06:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- hotwire.tests.BookingFlightTests -->
+    </test> <!-- Hotwire UI Tests -->
+  </suite> <!-- Hotwire Suite -->
+</testng-results>

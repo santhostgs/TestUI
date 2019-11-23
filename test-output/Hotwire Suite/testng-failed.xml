@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Hotwire Suite]">
+  <test thread-count="5" name="Hotwire UI Tests(failed)">
+    <classes>
+      <class name="hotwire.tests.BookingFlight">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="navigateVacations"/>
+          <include name="Setup"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- hotwire.tests.BookingFlight -->
+    </classes>
+  </test> <!-- Hotwire UI Tests(failed) -->
+</suite> <!-- Failed suite [Hotwire Suite] -->

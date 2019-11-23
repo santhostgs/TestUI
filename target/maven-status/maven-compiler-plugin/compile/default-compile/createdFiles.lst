@@ -1,0 +1,5 @@
+hotwire\pages\Homepage.class
+hotwire\util\DriverManager.class
+hotwire\pages\VacationsPage.class
+hotwire\util\BaseTest.class
+hotwire\pages\SearchResultPage.class
